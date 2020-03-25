@@ -1,0 +1,1 @@
+[https://www.aktien-analysen.com/krypto-x/?af=SEM_I_TRENDS-DOS_sdGAW_ADC_Krypto-x-diese-3-kryptos-explodieren-AA-Smart](https://www.aktien-analysen.com/krypto-x/?af=SEM_I_TRENDS-DOS_sdGAW_ADC_Krypto-x-diese-3-kryptos-explodieren-AA-Smart)

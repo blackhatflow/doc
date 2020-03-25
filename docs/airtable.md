@@ -1,9 +1,10 @@
 # Quick start
 
-WATCH THIS
-https://www.loom.com/share/e1addf50bad84d14931278356e52126d
 
-## What is this?
+<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/e1addf50bad84d14931278356e52126d" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div><br><br>
+
+
+# What is this?
 
 **What is this dashboard**? It's built on top of airtable. Airtable is part spreadsheet, part database tool. If you are new to airtable, the easiest way to understand is to watch their 2min [product tour](https://airtable.com/product)
 
@@ -72,29 +73,29 @@ It's useful because most of the offers have ON hours where you get most of the t
 The timezone is UTC so you need to adjust based on that.
 
 - Ie you launch a campaign in USA from 8h to 20h local time GTM-4 , you need to convert schedule to 12:00 - 24:00
-- Ie campaign in Germany from 8h to 20h local time GTM+1 , you need to convert schedule to 7:00 - 19:00
+- Ie campaign in Germany from 8h to 20h local time GTM+1 , then schedule is 7:00 - 19:00
 
 What else to know:
 
-- The scheduler run every 30min, so don't set 9:15 as it will count as 9:30 anyway
+- The scheduler run every 30min, so if you set 9:15 as it will count as 9:30 anyway
 - Make sure to tick the box schedule to make the bot active.
 
 # Landers
 
-## How to add safe page
+# How to add safe page
 
 
 
 ![Screen Shot 2020-03-24 at 7.35.35 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/03/25-15-24-00-Screen%20Shot%202020-03-24%20at%207.35.35%20PM.png)
 
-## How to add money page
+# How to add money page
 
 coming soon
 
 # Offers
 
-## How to add offers
+### ### How to add offers
 
 coming soon
 
-## classic dashboard
+#### classic dashboard

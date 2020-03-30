@@ -4,9 +4,11 @@
 
   <u>**Dashboard**</u>
 
-  * [airtable](airtable.md "Airtable Dashboard Guide")
+  * [airtable dash](airtable.md "Airtable Dashboard Guide")
 
   * [cloaking](cloaking.md "Note for cloaking")
+
+  <u>**Settings**</u>
 
   * [profile & access](profile.md "Profile settings")
 

@@ -8,6 +8,8 @@
 
   * [cloaking](cloaking.md "Note for cloaking")
 
+  * [profile & access](profile.md "Profile settings")
+
   <u>**Traffic source**</u>
 
   * [google](google.md "Notes googleads")

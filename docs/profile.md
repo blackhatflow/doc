@@ -12,8 +12,6 @@ You will need your pubid and pubkey. You can find them in settings -> profile.
   
   Otherwise, if someone see a campaign xxxxxxx and somehow guess it belong to you, could try to bruteforce ( find your two letter pubid by trying randomly ) and then see your stats. Even then, it's a small leak as the stats available from the campaign link are limited.
 
-
-
 ## Debugging your campaign link
 
 In your campaign link you can use:

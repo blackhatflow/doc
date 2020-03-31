@@ -80,21 +80,19 @@ What else to know:
 
 # Landers
 
-# How to add safe page
+## How to add safe page
 
 ![Screen Shot 2020-03-24 at 7.35.35 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/03/25-15-24-00-Screen%20Shot%202020-03-24%20at%207.35.35%20PM.png)
 
-# How to add money page
+## How to add money page
 
-coming soon.
+*coming soon. for now send over chat*
 
 # Offers
 
-### How to add offers
+## How to add offers
 
-coming soon.
-
-
+*coming soon. for now send over chat*
 
 # Collaboration
 

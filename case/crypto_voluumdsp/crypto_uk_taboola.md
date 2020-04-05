@@ -1,4 +1,4 @@
-# Case study Crypto UK on Taboola VoluumDSP
+# Crypto UK + VoluumDSP + Taboola
 
 Notes :
 

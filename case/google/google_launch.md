@@ -1,4 +1,4 @@
-# google\_launch
+# Launch
 
 Case study
 

@@ -1,6 +1,4 @@
-# cloaking\_redirect
-
-How to
+# cloaking with redirect
 
 ## Facebook with redirect
 

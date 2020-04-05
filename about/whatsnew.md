@@ -1,8 +1,10 @@
-# whatsnew
+# What's new
 
-What's new
+## outdated
 
-## What's blackflow?
+## 
+
+What's blackflow?
 
 _Blackflow is the quickest way to get a profitable campaign. It's an all in one tool to promote blackhat offers with cloaking, funnel and analytics - nothing to set up._
 

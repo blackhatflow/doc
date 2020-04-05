@@ -1,5 +1,5 @@
 ---
-description: Quick start your flow
+description: How to use the dashboard
 ---
 
 # Dashboard
@@ -37,8 +37,8 @@ First, let's me give you a quick overview of airtable.
    * the **source**
    * the **account** we just added
    * the **flow** \( which vertical, geo and device ?
-   * the [**integration**](airtable.md#integration), which is the kind of safe page you want to use. You either have wordpress \( an article as safe page \) or a reverse proxy \( where you can use any external website as your safe page\) more on that later..
-   * [Domain](airtable.md#domain). For the domain, if you already have domain available in your base, you can assign manually. If you don't and need a new domain, click on deploy \( this will assign you a new domain based on your settings\)
+   * the [**integration**](dashboard.md#integration), which is the kind of safe page you want to use. You either have wordpress \( an article as safe page \) or a reverse proxy \( where you can use any external website as your safe page\) more on that later..
+   * [Domain](dashboard.md#domain). For the domain, if you already have domain available in your base, you can assign manually. If you don't and need a new domain, click on deploy \( this will assign you a new domain based on your settings\)
 
      ![Screen Shot 2020-03-24 at 11.10.44 AM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/03/24-11-11-01-Screen%20Shot%202020-03-24%20at%2011.10.44%20AM.png)
 

@@ -1,4 +1,4 @@
-# profile
+# pubid / pubkey
 
 ## pubid / pubkey
 

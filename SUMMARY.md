@@ -1,31 +1,38 @@
 # Table of contents
 
-* [README](README.md)
-* [Dashboard](airtable.md)
-* [Google + Crypto](google/README.md)
-  * [google\_crypto\_de](google/google_crypto_de.md)
-  * [cryptogoogle](google/cryptogoogle.md)
-  * [Google search](google/google_sitelink.md)
-  * [GoogleAds Pixel](google/google_pixel.md)
-  * [crypto DE](google/crypto-de.md)
-  * [crypto\_de\_fb](google/crypto_de_fb.md)
-* [What's Blackflow?](docs/README.md)
-  * [google\_launch](docs/google_launch.md)
-  * [whatsnew](docs/whatsnew.md)
-  * [faq](docs/faq.md)
-  * [GoogleAds Pixel](docs/google_pixel-copy.md)
-  * [crypto\_voluumdsp](docs/crypto_voluumdsp.md)
-  * [crypto\_uk\_fb](docs/crypto_uk_fb.md)
-  * [crypto\_uk\_google](docs/crypto_uk_google.md)
-  * [profile](docs/profile.md)
-  * [cloaking\_redirect](docs/cloaking_redirect.md)
-  * [cryptotaboola](docs/cryptotaboola.md)
-  * [edvoluumdsp](docs/edvoluumdsp.md)
-  * [cryptoNL](docs/cryptonl.md)
-  * [\_sidebar](docs/_sidebar.md)
-  * [pitch](docs/pitch.md)
-  * [GoogleAds Pixel](docs/google_pixel_purchase.md)
-  * [Case study Crypto UK on Taboola VoluumDSP](docs/crypto_uk_taboola.md)
-  * [customize\_lander](docs/customize_lander.md)
-  * [cloaking](docs/cloaking.md)
+* [What's blackflow](README.md)
+
+## Quick start
+
+* [Dashboard](quick-start/dashboard.md)
+* [Stats](quick-start/stats.md)
+* [pubid / pubkey](quick-start/profile.md)
+
+## Case study <a id="case"></a>
+
+* [Google](case/google/README.md)
+  * [Launch](case/google/google_launch.md)
+  * [Pixel](case/google/google_pixel_purchase.md)
+  * [crypto DE](case/google/google_crypto_de.md)
+  * [Sitelink extension](case/google/google_sitelink.md)
+  * [Crypto UK](case/google/crypto_uk_google.md)
+* [Facebook](case/facebook/README.md)
+  * [Notes about the beast](case/facebook/notes-about-the-beast.md)
+  * [Crypto DE](case/facebook/crypto_de_fb.md)
+  * [Crypto UK](case/facebook/crypto_uk_fb.md)
+  * [Running on display](case/facebook/cryptogoogle.md)
+* [Native](case/crypto_voluumdsp/README.md)
+  * [Male enhancement campaign](case/crypto_voluumdsp/edvoluumdsp.md)
+  * [Crypto UK + VoluumDSP + Taboola](case/crypto_voluumdsp/crypto_uk_taboola.md)
+  * [Crypto IT + VoluumDSP + Taboola](case/crypto_voluumdsp/cryptotaboola.md)
+
+## About
+
+* [FAQ](about/faq.md)
+* [What's new](about/whatsnew.md)
+
+## Cloaking
+
+* [cloaking](cloaking/cloaking.md)
+* [cloaking with redirect](cloaking/cloaking_redirect.md)
 

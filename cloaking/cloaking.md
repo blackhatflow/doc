@@ -13,45 +13,47 @@ _What blackflow do for you in the backend:_![Screen Shot 2020-01-21 at 10.17.04 
 **Blackflow currently have 5 options for the safe page**
 
 * [**redirect**](cloaking.md#redirect): redirect to any page like amazon, ebay etc..
-* [**curl**](cloaking.md#curl)**:**: host any external page \( but it's not a mirror - if you click links on the page it will go to original site\)
-* [**reverse proxy**](cloaking.md#reverse-proxy):: fully mirror an external site, we only support a few domain \( etsy, usatoday, euronews etc.. \)
-* [**wordpress**](cloaking.md#wordpress): arbitrage website with wordpress, top 10 article, next button and display ads
-* [**includes**](cloaking.md#includes)**:**: best scenario where we host a custom lander.
+* **curl / reverse proxy a page:**: it works any external page \( but it's not a site mirror - if you click on links on the page it will go back to original site\)
+* mirror / [**reverse proxy**](cloaking.md#reverse-proxy) **full site**:: fully mirror an external site, we only support a few domain \( etsy, usatoday, euronews etc.. \)
+* [**wordpress**](cloaking.md#wordpress): arbitrage website with wordpress, top 10 kind of articles, next button and display ads with our adserver
+* [**includes**](cloaking.md#includes)**:**  we host a custom lander.
 
 | method | same domain | zero -redirect | full website |
 | :---: | :---: | :---: | :---: |
 | **redirect** | no | no | ✔ |
 | **curl** | ✔ | ✔ | yes, but click links go to original website |
-| **reverse proxy** | ✔ | ✔ | ✔ but no SEO authority |
-| **WP website** | ✔ | ✔ | ✔ but no SEO authority |
-| **includes** | ✔ | ✔ | no \( just a single page lander\) |
+| **reverse proxy / Mirror** | ✔ | ✔ | ✔ but no SEO authority |
+| **Wordpress** | ✔ | ✔ | ✔ but no SEO authority |
+| **includes = hosting** | ✔ | ✔ | can be single page or multi page |
 
 The choice of the methods depends on your **angle** and on the **traffic source.**
 
-**here are our current observations**
+### **what works. Our current observations**
 
-**facebook** \( Recommendation : Redirect \)
+**facebook** \( Recommendation : Reverse proxy \)
 
 _Facebook usually requires a full website with terms and quality content, so **include** is usually not an option, and **wordpress websites** are seeing a lot of disapproval lately._
 
 | Rank | Method | Chance of approval | Spending |
 | :--- | :--- | :--- | :--- |
 | 1 | **redirect** | 9 | 6 |
-| 2 | reverse proxy | 8 | ? |
+| 2 | reverse proxy | 8 | 10 |
 | 3 | curl | 7 | ? |
 | 4 | shopify/github | 8 | 5 |
-| 5 | WP | 3 | 3 |
+| 5 | Wordpress | 3 | 5 |
 
-**google** \( Recommendation : WP website \)
+**google** \( Recommendation : WP website / Reverse proxy \)
 
 | Rank | Method | Chance of approval | Spending |
 | :--- | :--- | :--- | :--- |
-| 1 | WP website | 9 | 9 |
-| 2 | reverse proxy | ? | ? |
+| 1 | Wordpress | 9 | 8 |
+| 2 | reverse proxy | 8 | 8 |
 | 3 | curl | ? | ? |
 |  | ~~redirect~~ | 0 |  |
 
 **native** \( Recommendation : curl / reverse proxy \)
+
+native traffic source know what are affiliate and are most sensitive at how you are able to monetize your website. So unless you have a very good arbitrage website you will get denied with a random wordpress.
 
 | Rank | Method | Chance of approval | Spending |
 | :--- | :--- | :--- | :--- |
@@ -60,11 +62,11 @@ _Facebook usually requires a full website with terms and quality content, so **i
 | 3 | reverse proxy | ? | ? |
 | 4 | curl | ? | ? |
 
-### How to use it
+## How to use it
 
 let's go over the methods and how to use it
 
-#### wordpress
+### wordpress
 
 Attached to your domain is a content website \( WP \) with random article. It looks similar to an arbitrage website with clickbait article, 'next &gt;' button and ads.
 
@@ -86,7 +88,7 @@ For example for crypto IT, we have loaded articles about _'top works to do from 
 
 Note : If you need an article we don't have yet, just ask us.
 
-#### Redirect
+### Redirect
 
 _the **redirect** method simply redirect the user to another website. Some source like Googleads don't allow it, facebook is fine with it \(lately\), and native source can't really ban it as there is still many agencies using a tracking link._
 
@@ -132,7 +134,7 @@ And unlike other tracker or cloaker, the redirection is blazing fast \( 135 ms \
 
 ![Screen Shot 2020-01-17 at 3.58.40 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/17-15-58-45-Screen%20Shot%202020-01-17%20at%203.58.40%20PM.png)
 
-#### CURL
+### CURL = Page Reverse proxy
 
 with curl method, you can host any external page.
 
@@ -150,7 +152,7 @@ with curl method, you can host any external page.
 
 ![Screen Shot 2020-01-17 at 4.33.41 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/17-16-33-45-Screen%20Shot%202020-01-17%20at%204.33.41%20PM.png)
 
-#### Reverse-proxy
+### Reverse-proxy
 
 Reverse proxy method is the **same as curl but in better** , as we create a mirror of the website on our domain.
 
@@ -200,7 +202,7 @@ Our final campaign link for facebook :
 https://ifadlabs.com/products/absolutezero-plant/?source=facebook&campaign=094545a1&cid={{campaign.name}}&sid={{adset.name}}&aid={{ad.name}}&s=300
 ```
 
-#### Includes
+### Includes
 
 As the name say, the include method includes the page code. It's normal hosting and it's what most of the cloaker do. The requirement is you own the code of the page, so that's seriously limit your options.s
 

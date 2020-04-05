@@ -14,8 +14,8 @@
   * [Launch](case/google/google_launch.md)
   * [Pixel](case/google/google_pixel_purchase.md)
   * [crypto DE](case/google/google_crypto_de.md)
-  * [Sitelink extension](case/google/google_sitelink.md)
   * [Crypto UK](case/google/crypto_uk_google.md)
+  * [Sitelink extension](case/google/google_sitelink.md)
 * [Facebook](case/facebook/README.md)
   * [Notes about the beast](case/facebook/notes-about-the-beast.md)
   * [Crypto DE](case/facebook/crypto_de_fb.md)
@@ -35,4 +35,6 @@
 
 * [cloaking](cloaking/cloaking.md)
 * [cloaking with redirect](cloaking/cloaking_redirect.md)
+* [Homepage](https://blackhatflow.com)
+* [Stats](https://flow.black)
 

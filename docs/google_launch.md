@@ -1,28 +1,22 @@
- Case study
+# google\_launch
 
-# How to launch on Google Adword
+Case study
 
-This case study show the general steps ( for any vertical ) to get a google account, warmup the account and launch successfully.
+## How to launch on Google Adword
 
+This case study show the general steps \( for any vertical \) to get a google account, warmup the account and launch successfully.
 
-
-
-
-## Preparation
+### Preparation
 
 #### campaign
 
-```
+```text
 https://domain.com/?source=googleads&campaign=68449c63&cid={campaignid}&sid={keyword}&aid={creative}&tid={target}
 ```
 
-
-
-## setup
+### setup
 
 Google strategy is entirely up to you, but here are our settings anyway.
-
-
 
 ![Screen Shot 2020-01-23 at 9.40.42 AM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/23-09-42-58-Screen%20Shot%202020-01-23%20at%209.40.42%20AM.png)
 
@@ -38,7 +32,7 @@ Google strategy is entirely up to you, but here are our settings anyway.
 
 #### gclid
 
-Very important: you need to activate google auto tagging, the gclid, because 1) if not  your traffic will be filtered and 2) you can use it for pixel
+Very important: you need to activate google auto tagging, the gclid, because 1\) if not your traffic will be filtered and 2\) you can use it for pixel
 
 ![Screen Shot 2020-01-27 at 9.26.26 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/27-21-26-29-Screen%20Shot%202020-01-27%20at%209.26.26%20PM.png)
 
@@ -46,20 +40,19 @@ Very important: you need to activate google auto tagging, the gclid, because 1) 
 
 #### pixel
 
-help to set up [here](/google_pixel)
+help to set up [here](https://github.com/blackhatflow/doc/tree/b84c48b153c454452d1bc477f5100a3805f48beb/google_pixel/README.md)
 
-----
+### optimize
 
-## optimize
-
-after a few days, you will get enough conv ( ideally > 50 ) to optimize for CPA.. and this is where the magic happen.
+after a few days, you will get enough conv \( ideally &gt; 50 \) to optimize for CPA.. and this is where the magic happen.
 
 ![Screen Shot 2020-02-20 at 2.56.40 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/02/20-14-57-36-Screen%20Shot%202020-02-20%20at%202.56.40%20PM.png)
 
 ![Screen Shot 2020-02-20 at 2.56.28 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/02/20-14-58-12-Screen%20Shot%202020-02-20%20at%202.56.28%20PM.png)
 
-## tips
+### tips
 
 cap your cpc, otherwise can go really high. ideally cpc is below 0.6$
 
-schedule your campaign between 8am-8pm local time on weekdays, as it convert less as night ( call center are close and won't call your leads ), and convert less on weekend.
+schedule your campaign between 8am-8pm local time on weekdays, as it convert less as night \( call center are close and won't call your leads \), and convert less on weekend.
+

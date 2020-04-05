@@ -4,14 +4,14 @@
 
 We will set up two conversions :
 
-* [**Lead**](google_pixel.md#Lead) : it will fire automatically from our **Website**
-* [**Purchase**](google_pixel.md#Purchase) : you will **import manually** the conv later on \( we can't fire pixel for ftd or offer lead for now \)
+* [**Lead**](google_pixel-copy.md#Lead) : it will fire automatically from our **Website**
+* [**Purchase**](google_pixel-copy.md#Purchase) : you will **import manually** the conv later on \( we can't fire pixel for ftd or offer lead for now \)
 
   ![Screen Shot 2020-01-23 at 4.06.15 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/23-16-09-21-Screen%20Shot%202020-01-23%20at%204.06.15%20PM.png)
 
 ## 1\) **Lead** :
 
-_will fire automatically from the lander, when we detect the click to offer is good quality \( time on page &gt; 120s + scroll +50%. \)_ **Avg Lead to Offer Lead is 50%**
+_will fire automatically from the lander, when we detect the click to offer is good quality \( time on page &gt; 120s + scroll +50%. \)_
 
 ![Screen Shot 2020-01-23 at 4.04.27 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/23-16-07-24-Screen%20Shot%202020-01-23%20at%204.04.27%20PM.png)
 

@@ -1,21 +1,19 @@
-<!-- docs/_sidebar.md -->
+# \_sidebar
 
-* [Home](/)
+* [Home](../)
 
-  <u>**Dashboard**</u>
+  **Dashboard**
 
-  * [airtable dash](airtable.md "Airtable Dashboard Guide")
+  * [airtable dash](airtable.md)
+  * [cloaking](cloaking.md)
 
-  * [cloaking](cloaking.md "Note for cloaking")
+  **Settings**
 
-  <u>**Settings**</u>
+  * [profile & access](profile.md)
 
-  * [profile & access](profile.md "Profile settings")
+  **Traffic source**
 
-  <u>**Traffic source**</u>
+  * [google](https://github.com/blackhatflow/doc/tree/b84c48b153c454452d1bc477f5100a3805f48beb/docs/google.md)
+  * [facebook](https://github.com/blackhatflow/doc/tree/b84c48b153c454452d1bc477f5100a3805f48beb/docs/facebook.md)
+  * [pixel](https://github.com/blackhatflow/doc/tree/b84c48b153c454452d1bc477f5100a3805f48beb/docs/pixel.md)
 
-  * [google](google.md "Notes googleads")
-
-  * [facebook](facebook.md "Notes facebookads")
-
-  * [pixel](pixel.md "How to use the pixel")

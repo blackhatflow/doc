@@ -1,6 +1,8 @@
-- [http://jurbytime-centiland.icu/postback?cid=REPLACE&payout=OPTIONAL&txid=OPTIONAL&et=OPTIONAL](http://jurbytime-centiland.icu/postback?cid=REPLACE&payout=OPTIONAL&txid=OPTIONAL&et=OPTIONAL)
-  
-  ```https://dailable.com/?source=voluumdsp&campaign=504b54dc&cid={campaign.id}&sid={dsp.widget.id}&aid={dsp.creative.id}&tid={dsp.adexchange}&uid={clickid}
+# cryptotaboola
+
+* [http://jurbytime-centiland.icu/postback?cid=REPLACE&payout=OPTIONAL&txid=OPTIONAL&et=OPTIONAL](http://jurbytime-centiland.icu/postback?cid=REPLACE&payout=OPTIONAL&txid=OPTIONAL&et=OPTIONAL)
+
+  ```text
   https://dailable.com/?source=voluumdsp&campaign=504b54dc&cid={campaign.id}&sid={dsp.widget.id}&aid={dsp.creative.id}&tid={dsp.adexchange}&uid={clickid}
   ```
 
@@ -18,12 +20,11 @@
 
 'Rent super car in italy'
 
-Questo ragazzo finalmente guida l'auto dei suoi sogni con questo
-Sembra ricco e trasforma i tuoi sogni in realtà
-Noleggio auto di lusso in italia
+Questo ragazzo finalmente guida l'auto dei suoi sogni con questo Sembra ricco e trasforma i tuoi sogni in realtà Noleggio auto di lusso in italia
 
 ![Screen Shot 2020-01-21 at 3.42.43 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/21-15-42-45-Screen%20Shot%202020-01-21%20at%203.42.43%20PM.png)
 
 ![Screen Shot 2020-01-21 at 3.42.48 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/21-15-42-51-Screen%20Shot%202020-01-21%20at%203.42.48%20PM.png)
 
 ![Screen Shot 2020-01-21 at 3.46.10 PM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/01/21-15-46-14-Screen%20Shot%202020-01-21%20at%203.46.10%20PM.png)
+

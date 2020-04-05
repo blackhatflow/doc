@@ -1,5 +1,15 @@
 # FAQ
 
+Blackflow is your **backend** for blackhat campaigns.
+
+We bring all the piece of the puzzle - cloaking, domain, safe page, funnel, offer, tracking - so you just focus on your traffic.
+
+
+
+![](../.gitbook/assets/image%20%281%29.png)
+
+
+
 ### How is blackflow different from other all-in-one tools like zeustrack or kowboykit.
 
 Blackflow is similar in the way that we bring the piece of the puzzle together \( tracking, cloaking, server, safe page etc..\)

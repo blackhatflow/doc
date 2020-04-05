@@ -1,6 +1,6 @@
 # Table of contents
 
-* [What's blackflow](README.md)
+* [Welcome](README.md)
 
 ## Quick start
 

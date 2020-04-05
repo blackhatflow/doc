@@ -4,7 +4,7 @@
 
   **Dashboard**
 
-  * [airtable dash](airtable.md)
+  * [airtable dash](../airtable.md)
   * [cloaking](cloaking.md)
 
   **Settings**

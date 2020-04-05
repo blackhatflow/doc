@@ -1,4 +1,4 @@
-# crypto\_it\_google
+# Google + Crypto
 
 ## Crypto Italy + Google Adword
 
@@ -9,10 +9,10 @@ As it's one of the first case studies, I will details each step a bit more and k
 CONTENT
 
 1. Intro and mindset
-2. make your [campaign link](crypto_it_google.md#campaign) and safe page
+2. make your [campaign link](./#campaign) and safe page
 3. Set up the pixel\]\(\#pixel\). and activate auto-tagging gclid \( google click id\)
-4. [build the ad](crypto_it_google.md#ad) and set up the campaign on AdWords
-5. Then [optimize](crypto_it_google.md#optimize) and see our [tips](crypto_it_google.md#tips)
+4. [build the ad](./#ad) and set up the campaign on AdWords
+5. Then [optimize](./#optimize) and see our [tips](./#tips)
 
 ## Intro
 
@@ -54,8 +54,8 @@ this is optional, if the safe page by default don't match your ad angle, then:
 
 We will set up :
 
-* [**Lead**](crypto_it_google.md#Lead) : it will fire automatically from your campaign
-* Check if the google [auto-tagging glcid](crypto_it_google.md#gclid) is active
+* [**Lead**](./#Lead) : it will fire automatically from your campaign
+* Check if the google [auto-tagging glcid](./#gclid) is active
 
 #### **Lead** :
 

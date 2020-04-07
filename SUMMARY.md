@@ -6,11 +6,11 @@
 
 * [Dashboard](quick-start/dashboard.md)
 * [Stats](quick-start/stats.md)
-* [pubid / pubkey](quick-start/profile.md)
 
-## Cloaking
+## blackflow
 
-* [cloaking](cloaking/cloaking.md)
+* [Your profile](blackflow/profile.md)
+* [Cloaking](blackflow/cloaking.md)
 
 ## Case study <a id="case"></a>
 

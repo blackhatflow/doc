@@ -8,6 +8,8 @@ description: How to use the dashboard
 **What is this dashboard**? It's built on top of airtable. Airtable is an hybrid spreadsheet and database. If you are new to airtable, watch their 2min [product tour](https://airtable.com/product)
 {% endhint %}
 
+{% embed url="https://www.loom.com/share/e1addf50bad84d14931278356e52126d" caption="DEMO" %}
+
 ## Getting started
 
 Let's get a quick overview of airtable.

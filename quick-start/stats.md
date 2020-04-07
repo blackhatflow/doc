@@ -18,6 +18,10 @@ We have a block for your stats. Select any campaign, or any account to view it. 
 
 You can also switch between **Traffic log \(** see each click \)  and **Overview \(** stats by day **\)** 
 
+![](../.gitbook/assets/screen-shot-2020-04-07-at-3.00.02-pm.png)
+
+![](../.gitbook/assets/screen-shot-2020-04-07-at-3.01.21-pm.png)
+
 ## Analytics
 
 {% page-ref page="analytics.md" %}

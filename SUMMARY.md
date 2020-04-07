@@ -6,14 +6,17 @@
 
 * [Quick start](quick-start/dashboard.md)
 * [Stats](quick-start/stats.md)
+* [Analytics](quick-start/analytics.md)
 
 ## ✨blackflow
 
 * [Your profile](blackflow/profile.md)
-* [Collaboration](blackflow/collaboration.md)
 * [Cloaking](blackflow/cloaking.md)
-* [Advanced](blackflow/advanced/README.md)
-  * [🔔 Notification](blackflow/advanced/notification.md)
+* [Features](blackflow/features/README.md)
+  * [⏰ Scheduler](blackflow/features/scheduler.md)
+  * [🤝 Collaboration VA](blackflow/features/collaboration.md)
+  * [🔔 Notification](blackflow/features/notification.md)
+  * [😇 Safe page](blackflow/features/safe-page.md)
 
 ## 📘Case study <a id="case"></a>
 

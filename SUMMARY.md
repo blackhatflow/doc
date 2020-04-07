@@ -2,17 +2,18 @@
 
 * [Welcome](README.md)
 
-## Quick start
+## 📌Getting started <a id="quick-start"></a>
 
-* [Dashboard](quick-start/dashboard.md)
+* [Quick start](quick-start/dashboard.md)
 * [Stats](quick-start/stats.md)
 
-## blackflow
+## ✨blackflow
 
 * [Your profile](blackflow/profile.md)
+* [Collaboration](blackflow/collaboration.md)
 * [Cloaking](blackflow/cloaking.md)
 
-## Case study <a id="case"></a>
+## 📘Case study <a id="case"></a>
 
 * [Google](case/google/README.md)
   * [Launch](case/google/google_launch.md)
@@ -30,7 +31,7 @@
   * [Crypto UK + VoluumDSP + Taboola](case/crypto_voluumdsp/crypto_uk_taboola.md)
   * [Crypto IT + VoluumDSP + Taboola](case/crypto_voluumdsp/cryptotaboola.md)
 
-## About
+## ℹ️About
 
 * [FAQ](about/faq.md)
 * [What's new](about/whatsnew.md)

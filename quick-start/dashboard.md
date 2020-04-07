@@ -68,13 +68,17 @@ The last step is to activate your campaign after the traffic source approved it.
 
 ### Campaign status
 
-A good way to manage your campaign and accounts and to remember what's going on is to set the status of the campaign. This has no effect on the cloaker, it's just for organization
+A good way to manage your campaign and accounts and to remember what's going on is to set the status of the campaign. This has no effect on the cloaker, it's just for organization. 
+
+{% hint style="info" %}
+What if your campaign didn't approved or get banned? Then set up your campaign status as **disabled** and in notes you can indicate the reason. This is very helpful as i can understand why you got banned and make improvements.
+{% endhint %}
 
 ![](../.gitbook/assets/screen-shot-2020-04-07-at-9.04.00-am%20%281%29.png)
 
 ### Campaign scheduler
 
-Campaign scheduler is a bot that will auto start and auto pause campaign on the time and day you choosed.
+Campaign scheduler is a bot that will auto start and auto pause campaign on the time and day you chose.
 
 It's useful because most of the offers have ON hours where you get most of the traffic and higher CR. Letting campaign live at night increase the risk of getting your campaign banned. Scheduling your campaign reduce risk of getting banned by 50%
 

@@ -4,53 +4,73 @@ description: How to use the dashboard
 
 # Dashboard
 
-## What is this?
-
-**What is this dashboard**? It's built on top of airtable. Airtable is part spreadsheet, part database tool. If you are new to airtable, the easiest way to understand is to watch their 2min [product tour](https://airtable.com/product)
-
-This dashboard is for user running many accounts. For a simpler version, you can ask us to switch to the classic dashboard.
+{% hint style="info" %}
+**What is this dashboard**? It's built on top of airtable. Airtable is an hybrid spreadsheet and database. If you are new to airtable, watch their 2min [product tour](https://airtable.com/product)
+{% endhint %}
 
 ## Getting started
 
-First, let's me give you a quick overview of airtable.
+Let's get a quick overview of airtable.
 
-![Screen Shot 2020-03-24 at 10.53.53 AM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/03/24-10-58-14-Screen%20Shot%202020-03-24%20at%2010.53.53%20AM.png)
+![Your dashboard on airtable](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/03/24-10-58-14-Screen%20Shot%202020-03-24%20at%2010.53.53%20AM.png)
 
-* So this is your **base**
-* Your got different **tables** \( the pieces of the puzzle \): account, domain, landers ect..
-* Then you have **view** which is just a way to show and order a set of columns, so you can focus on current task \( setting up campaign, scheduling etc...\). You can create your own view, customize it and share it with your media buyers and VA.
+* This is your **base**
+* You've got different **tables.** See it as ****the pieces of the puzzle : account, domain, landers...
+* Then you have **views,** which is a way to filter which columns you want to see, so you can focus on your current task \( setting up campaign, scheduling...\). You can also share a view to your VA \( more on that later \)
 
-### setting up your first campaign
+### Setting up your first campaign
 
-1. Start by adding an account.
+#### STEP 1 - Add an account.
 
-   ![Screen Shot 2020-03-24 at 11.03.17 AM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/03/24-11-03-55-Screen%20Shot%202020-03-24%20at%2011.03.17%20AM.png)
+You start by adding an account. Go to account table.
 
-   You need to assign a source and a user . Optionnaly you can set up the status which is just to help you organize things \( which account are live, in review etc.. \) and the account pixel.
+You need to assign a source and a user . Optionally you can set up the **status** which is just to help you organize things \( which account are live, in review etc.. \) and the account pixel.
 
-2. Then you can create your campaign
+![account table](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/03/24-11-03-55-Screen%20Shot%202020-03-24%20at%2011.03.17%20AM.png)
 
-   ![Screen Shot 2020-03-24 at 11.07.15 AM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/03/24-11-08-07-Screen%20Shot%202020-03-24%20at%2011.07.15%20AM.png)
 
-   You need to define these:
 
-   * the **source**
-   * the **account** we just added
-   * the **flow** \( which vertical, geo and device ?
-   * the [**integration**](dashboard.md#integration), which is the kind of safe page you want to use. You either have wordpress \( an article as safe page \) or a reverse proxy \( where you can use any external website as your safe page\) more on that later..
-   * [Domain](dashboard.md#domain). For the domain, if you already have domain available in your base, you can assign manually. If you don't and need a new domain, click on deploy \( this will assign you a new domain based on your settings\)
+#### STEP 2 - Then you can create your campaign
 
-     ![Screen Shot 2020-03-24 at 11.10.44 AM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/03/24-11-11-01-Screen%20Shot%202020-03-24%20at%2011.10.44%20AM.png)
+Go to campaign table
 
-     That's all. Once you get a domain, you will see your campaign URL. All is ready, you can use it in your traffic source.
+![Screen Shot 2020-03-24 at 11.07.15 AM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/03/24-11-08-07-Screen%20Shot%202020-03-24%20at%2011.07.15%20AM.png)
 
-     ![Screen Shot 2020-03-24 at 11.11.41 AM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/03/24-11-11-46-Screen%20Shot%202020-03-24%20at%2011.11.41%20AM.png)
+You can see it as a puzzle, and you need to set these:
 
-     The last step is to activate your campaign after the traffic source approved it.
+* the **traffic source**
+* the **account** \(we just added\)
+* the **flow** \( which vertical, geo and device \)
+* the [**integration**](dashboard.md#integration), which is the type of safe page you want to use. You either have:
+  *  wordpress, an article as safe page 
+  *  reverse proxy, where you can use any external website as your safe page \( more on that later..\)
+* **Domain**. For the domain, if you already have domain available in your base, you can assign them manually. If you need a new domain, click on the deploy, this will assign you a new domain based on your safe page settings
 
-     ![Screen Shot 2020-03-24 at 11.12.43 AM.png](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/03/24-11-13-06-Screen%20Shot%202020-03-24%20at%2011.12.43%20AM.png)
+{% hint style="info" %}
+Don't see the deploy button? On the right side, click on BLOCKS to show the right side panel, then select the Campaign Dashboard.
+{% endhint %}
 
-## Campaign
+![](../.gitbook/assets/screen-shot-2020-04-07-at-10.07.30-am.png)
+
+That's all. Once you get a domain, you will see your campaign URL. All is ready, you can use it in your traffic source.
+
+![your campaigns](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/03/24-11-11-46-Screen%20Shot%202020-03-24%20at%2011.11.41%20AM.png)
+
+
+
+### Activating your campaign 
+
+The last step is to activate your campaign after the traffic source approved it.
+
+![tick the box on active column](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/03/24-11-13-06-Screen%20Shot%202020-03-24%20at%2011.12.43%20AM.png)
+
+## Manage your Campaign
+
+### Campaign status
+
+A good way to manage your campaign and accounts and to remember what's going on is to set the status of the campaign. This has no effect on the cloaker, it's just for organization
+
+![](../.gitbook/assets/screen-shot-2020-04-07-at-9.04.00-am%20%281%29.png)
 
 ### Campaign scheduler
 

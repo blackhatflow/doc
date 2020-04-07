@@ -8,6 +8,10 @@
 * [Stats](quick-start/stats.md)
 * [pubid / pubkey](quick-start/profile.md)
 
+## Cloaking
+
+* [cloaking](cloaking/cloaking.md)
+
 ## Case study <a id="case"></a>
 
 * [Google](case/google/README.md)
@@ -31,10 +35,8 @@
 * [FAQ](about/faq.md)
 * [What's new](about/whatsnew.md)
 
-## Cloaking
+## External Links
 
-* [cloaking](cloaking/cloaking.md)
-* [cloaking with redirect](cloaking/cloaking_redirect.md)
 * [Homepage](https://blackhatflow.com)
 * [Stats](https://flow.black)
 

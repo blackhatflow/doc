@@ -12,6 +12,8 @@
 * [Your profile](blackflow/profile.md)
 * [Collaboration](blackflow/collaboration.md)
 * [Cloaking](blackflow/cloaking.md)
+* [Advanced](blackflow/advanced/README.md)
+  * [🔔 Notification](blackflow/advanced/notification.md)
 
 ## 📘Case study <a id="case"></a>
 

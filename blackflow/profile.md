@@ -24,6 +24,7 @@ You will need your pubid and pubkey. You can find them in settings -&gt; profile
 In your campaign link you can use:
 
 * **&pubkey=cloaker** _to see the cloaker response_
+* **&pubkey=bypass** to see the money page
 * **&pubkey=flow** to see the funnel configuration
 * **&pubkey=log** _to see in realtime the last 100 clicks_
 * **&pubkey=stats** \*to access the campaign stats in standalone mode \( stats are updated every hours \). Useful to give stats access on campaign level to your VA or partner without sharing your login

@@ -69,7 +69,7 @@ How do i check my campaign to make sure it's working?
 * Try loading your campaign link, it will go to the safe page. 
 * Then add &{pubkey}=bypass in your campaign link to check the money page. \( you need to replace {pubkey}, with the one is your profile \).
 
-
+More details here:
 
 {% page-ref page="../blackflow/profile.md" %}
 

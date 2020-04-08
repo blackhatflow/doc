@@ -5,8 +5,8 @@
 ## 📌Getting started <a id="quick-start"></a>
 
 * [Quick start](quick-start/dashboard.md)
-* [Stats](quick-start/stats.md)
-* [Analytics](quick-start/analytics.md)
+* [Stats](quick-start/stats/README.md)
+  * [Analytics](quick-start/stats/analytics.md)
 
 ## ✨blackflow
 
@@ -17,6 +17,7 @@
   * [🤝 Collaboration VA](blackflow/features/collaboration.md)
   * [🔔 Notification](blackflow/features/notification.md)
   * [😇 Safe page](blackflow/features/safe-page.md)
+  * [💵 accouting](blackflow/features/accouting.md)
 
 ## 📘Case study <a id="case"></a>
 

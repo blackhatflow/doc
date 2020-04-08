@@ -58,9 +58,22 @@ That's all. Once you get a domain, you will see your campaign URL. All is ready,
 
 ### Activating your campaign 
 
-The last step is to activate your campaign after the traffic source approved it.
+The last step is to activate your campaign after the traffic source approved it. This will turn the cloaker on so only do this when you are sending real traffic.
 
 ![tick the box on active column](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/03/24-11-13-06-Screen%20Shot%202020-03-24%20at%2011.12.43%20AM.png)
+
+### Checking your campaign
+
+How do i check my campaign to make sure it's working?
+
+* Try loading your campaign link, it will go to the safe page. 
+* Then add &{pubkey}=bypass in your campaign link to check the money page. \( you need to replace {pubkey}, with the one is your profile \).
+
+
+
+{% page-ref page="../blackflow/profile.md" %}
+
+
 
 ## Manage your Campaign
 

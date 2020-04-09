@@ -18,6 +18,7 @@
   * [🔔 Notification](blackflow/features/notification.md)
   * [😇 Safe page](blackflow/features/safe-page.md)
   * [💵 accouting](blackflow/features/accouting.md)
+  * [🔗 Pixel](blackflow/features/pixel.md)
 
 ## 📘Case study <a id="case"></a>
 

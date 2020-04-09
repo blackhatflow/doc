@@ -4,7 +4,7 @@ Google and facebook have 100x reasons to ban your account, let's write a bit abo
 
 ## Google
 
-As you ca see only about 20% of the ban would be about the cloaker itself. The main reason are your account quality and ad settings.
+
 
 <table>
   <thead>
@@ -50,5 +50,5 @@ As you ca see only about 20% of the ban would be about the cloaker itself. The m
       <td style="text-align:left">appeal and move on</td>
     </tr>
   </tbody>
-</table>
+</table>As you can see only about 20% of the ban would be about the cloaker itself. The main reason are your account quality and ad settings.
 

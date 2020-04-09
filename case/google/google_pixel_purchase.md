@@ -1,4 +1,4 @@
-# Pixel
+# 🔗 Pixel
 
 ## setting up the pixel
 

@@ -2,6 +2,8 @@
 
 You've got a few ways to check your stats, each with different level of details. 
 
+{% embed url="https://www.loom.com/share/5b29c535e98a4f699d9fc256f23ede4a" %}
+
 ## Block stats
 
 The block stats is a simple report with the most important metrics \( users, click, lead, click time, sales, cloak \) 
@@ -24,6 +26,8 @@ You can also switch between **Log \(** see each click \)  and **Overview \(** st
 
 ## Analytics Report
 
+Full analytics report, when you need to dive in your data
+
 {% page-ref page="analytics.md" %}
 
 ## Table accounting
@@ -34,7 +38,7 @@ The _table accounting_ reports your daily revenue. You can see your current bala
 
 ## Table stats
 
-The _table Stats_ report **your revenue per campaign per day**. This allows you \( or your VA \) to import your ad spend for each so we can compute your CPC, ROI and Profit.
+The _table Stats_ report **your revenue per campaign per day**. This allows you \( or your VA \) to import your ad spend so we can calculate your CPC, ROI and Profit.
 
 {% page-ref page="../../blackflow/features/collaboration.md" %}
 

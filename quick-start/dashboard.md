@@ -1,20 +1,32 @@
 # Quick start
 
-{% hint style="info" %}
-**What is this dashboard**? It's built on top of airtable. Airtable is an hybrid spreadsheet and database. If you are new to airtable, watch their 2min [product tour](https://airtable.com/product)
-{% endhint %}
-
 {% embed url="https://www.loom.com/share/e1addf50bad84d14931278356e52126d" caption="DEMO" %}
 
 ## Getting started
 
-Let's get a quick overview of airtable.
+![](../.gitbook/assets/image%20%282%29.png)
+
+
+
+{% hint style="info" %}
+**What is this dashboard**? It's built on top of airtable. Airtable is hybrid spreadsheet and database.
+{% endhint %}
 
 ![Your dashboard on airtable](https://raw.githubusercontent.com/blackhatflow/storage/master/2020/03/24-10-58-14-Screen%20Shot%202020-03-24%20at%2010.53.53%20AM.png)
 
-* This is your **base**
-* You've got different **tables.** See it as ****the pieces of the puzzle : account, domain, landers...
+Let's get a quick overview of airtable.
+
+* This is your **base.** A [**base**](https://support.airtable.com/hc/en-us/articles/360021518753#base) is a database that contains all of the information you need about your campaigns,  and is made up of one or more tables.
+* You've got different **tables.**  A [**table**](https://support.airtable.com/hc/en-us/articles/360021333094#table) contains a list of items of the same type. See it as ****the pieces of the puzzle : account, domain, landers...
+* A [**record**](https://support.airtable.com/hc/en-us/articles/360021333094#record) is an individual item in a table \( campaign, domain etc.. \) 
+* You can [**expand a record**](https://support.airtable.com/hc/en-us/articles/360021333094#expanded) to see all its associated details in a card-like layout.
 * Then you have **views,** which is a way to filter which columns you want to see, so you can focus on your current task \( setting up campaign, scheduling...\). You can also share a view to your VA \( more on that later \)
+
+For any questions about how to use airtable, please refer to this 
+
+{% page-ref page="../blackflow/features/airtable.md" %}
+
+
 
 ### Setting up your first campaign
 

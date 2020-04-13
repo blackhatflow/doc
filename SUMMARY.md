@@ -13,6 +13,7 @@
 * [Your profile](blackflow/profile.md)
 * [Cloaking](blackflow/cloaking.md)
 * [Features](blackflow/features/README.md)
+  * [🤓 Intro to airtable](blackflow/features/airtable.md)
   * [⏰ Scheduler](blackflow/features/scheduler.md)
   * [🤝 Collaboration VA](blackflow/features/collaboration.md)
   * [🔔 Notification](blackflow/features/notification.md)

@@ -20,6 +20,7 @@
   * [😇 Safe page](blackflow/features/safe-page.md)
   * [💵 accouting](blackflow/features/accouting.md)
   * [🔗 Pixel](blackflow/features/pixel.md)
+  * [🏦 Network](blackflow/features/network.md)
 
 ## 📘Case study <a id="case"></a>
 

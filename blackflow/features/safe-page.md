@@ -2,6 +2,10 @@
 
 ### How to make safe page
 
+{% hint style="danger" %}
+You cannot enter the lander ID by yourself!  You need to click on the button DEPLOY to get the lander ID, otherwise your safe page is not added to the system
+{% endhint %}
+
 {% embed url="https://www.loom.com/share/9256ac1219b8484088fcb4b6511caae7" %}
 
 

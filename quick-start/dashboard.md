@@ -93,10 +93,10 @@ More details here:
 
 ### Campaign status
 
-A good way to manage your campaign and accounts and to remember what's going on is to set the status of the campaign. This has no effect on the cloaker, it's just for organization. 
+A good way to manage your campaign and accounts is to set the status of the campaign. \( This has no effect on the cloaker, it's just for organization \). 
 
 {% hint style="info" %}
-What if your campaign didn't approved or get banned? Then set up your campaign status as **disabled** and in notes you can indicate the reason. This is very helpful as i can understand why you got banned and make improvements.
+What if your campaign didn't approved or get banned? Then set up your campaign status as **disabled** and in _notes_ you can indicate the reason. This is very helpful as i can understand why you got disapproved and make improvements.
 {% endhint %}
 
 ![](../.gitbook/assets/screen-shot-2020-04-07-at-9.04.00-am%20%281%29.png)

@@ -7,6 +7,7 @@
 * [Quick start](quick-start/dashboard.md)
 * [Stats](quick-start/stats/README.md)
   * [Analytics](quick-start/stats/analytics.md)
+  * [Metrics](quick-start/stats/metrics.md)
 
 ## ✨blackflow
 

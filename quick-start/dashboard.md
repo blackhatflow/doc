@@ -101,6 +101,20 @@ What if your campaign didn't approved or get banned? Then set up your campaign s
 
 ![](../.gitbook/assets/screen-shot-2020-04-07-at-9.04.00-am%20%281%29.png)
 
+#### Status
+
+* **Setting up**: we are still setting up the campaign on your dashboard
+* **Ready**: link is working and ready to be uploaded on traffic source
+* **Warming up**: campaign is warming up on safe page on traffic source
+* **Live** : campaign is active. = Only case where you activate campaign
+* **In review**: the campaign went into review \( pause the campaign
+* **Disabled** : meant the campaign got rejected, or account disabled
+* **Issue** : if your link is not working
+
+So usually, the campaign life cycle is: Setting up -&gt; Ready -&gt; Warming up -&gt; Live -&gt; Disabled
+
+
+
 ### Campaign scheduler
 
 {% page-ref page="../blackflow/features/scheduler.md" %}
@@ -125,13 +139,7 @@ _coming soon. for now send over chat_
 
 ### How to add offers
 
-_coming soon. for now send over chat_
-
-## Collaboration
-
-{% page-ref page="../blackflow/features/collaboration.md" %}
+_coming soon. for now send over chat. Only high volume users or private deal._
 
 
-
-### 
 

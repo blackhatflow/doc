@@ -16,6 +16,7 @@
 * [Features](blackflow/features/README.md)
   * [🤓 Intro to airtable](blackflow/features/airtable.md)
   * [⏰ Scheduler](blackflow/features/scheduler.md)
+  * [🛠 options](blackflow/features/options.md)
   * [🤝 Collaboration VA](blackflow/features/collaboration.md)
   * [🔔 Notification](blackflow/features/notification.md)
   * [😇 Safe page](blackflow/features/safe-page.md)

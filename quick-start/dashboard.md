@@ -62,7 +62,7 @@ You can see it as a puzzle, and you need to set these:
 Don't see the deploy button? On the right side, click on BLOCKS to show the right side panel, then select the Campaign Dashboard.
 {% endhint %}
 
-![](../.gitbook/assets/screen-shot-2020-04-07-at-10.07.30-am%20%281%29.png)
+![](../.gitbook/assets/screen-shot-2020-04-07-at-10.07.30-am.png)
 
 That's all. Once you get a domain, you will see your campaign URL. All is ready, you can use it in your traffic source.
 

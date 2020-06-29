@@ -1,4 +1,4 @@
-# Welcome
+# 👋 Welcome
 
 Blackflow is your **backend** for blackhat campaigns.
 

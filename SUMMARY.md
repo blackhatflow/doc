@@ -1,13 +1,10 @@
 # Table of contents
 
-* [Welcome](README.md)
-
-## 📌Getting started <a id="quick-start"></a>
-
-* [Quick start](quick-start/dashboard.md)
-* [Stats](quick-start/stats/README.md)
-  * [Analytics](quick-start/stats/analytics.md)
-  * [Metrics](quick-start/stats/metrics.md)
+* [👋 Welcome](README.md)
+* [🚀 Start here](doc.md)
+* [📊 Stats](stats/README.md)
+  * [Analytics](stats/analytics.md)
+  * [Metrics](stats/metrics.md)
 
 ## ✨blackflow
 

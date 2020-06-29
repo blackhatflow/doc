@@ -1,4 +1,4 @@
-# Quick start
+# 🚀 Start here
 
 
 
@@ -6,7 +6,7 @@
 
 ## Getting started
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](.gitbook/assets/image%20%282%29.png)
 
 
 
@@ -26,7 +26,7 @@ Let's get a quick overview of airtable.
 
 For any questions about how to use airtable, please refer to this 
 
-{% page-ref page="../blackflow/features/airtable.md" %}
+{% page-ref page="blackflow/features/airtable.md" %}
 
 
 
@@ -53,7 +53,7 @@ You can see it as a puzzle, and you need to set these:
 * the **traffic source**
 * the **account** \(we just added\)
 * the **flow** \( which vertical, geo and device \)
-* the [**integration**](dashboard.md#integration), which is the type of safe page you want to use. You either have:
+* the [**integration**](doc.md#integration), which is the type of safe page you want to use. You either have:
   *  wordpress, an article as safe page 
   *  reverse proxy, where you can use any external website as your safe page \( more on that later..\)
 * **Domain**. For the domain, if you already have domain available in your base, you can assign them manually. If you need a new domain, click on the deploy, this will assign you a new domain based on your safe page settings
@@ -62,7 +62,7 @@ You can see it as a puzzle, and you need to set these:
 Don't see the deploy button? On the right side, click on BLOCKS to show the right side panel, then select the Campaign Dashboard.
 {% endhint %}
 
-![](../.gitbook/assets/screen-shot-2020-04-07-at-10.07.30-am.png)
+![](.gitbook/assets/screen-shot-2020-04-07-at-10.07.30-am.png)
 
 That's all. Once you get a domain, you will see your campaign URL. All is ready, you can use it in your traffic source.
 
@@ -85,7 +85,7 @@ How do i check my campaign to make sure it's working?
 
 More details here:
 
-{% page-ref page="../blackflow/profile.md" %}
+{% page-ref page="blackflow/profile.md" %}
 
 
 
@@ -99,7 +99,7 @@ A good way to manage your campaign and accounts is to set the status of the camp
 What if your campaign didn't approved or get banned? Then set up your campaign status as **disabled** and in _notes_ you can indicate the reason. This is very helpful as i can understand why you got disapproved and make improvements.
 {% endhint %}
 
-![](../.gitbook/assets/screen-shot-2020-04-07-at-9.04.00-am%20%281%29.png)
+![](.gitbook/assets/screen-shot-2020-04-07-at-9.04.00-am%20%281%29.png)
 
 #### Status
 
@@ -117,7 +117,7 @@ So usually, the campaign life cycle is: Setting up -&gt; Ready -&gt; Warming up 
 
 ### Campaign scheduler
 
-{% page-ref page="../blackflow/features/scheduler.md" %}
+{% page-ref page="blackflow/features/scheduler.md" %}
 
 
 
@@ -125,7 +125,7 @@ So usually, the campaign life cycle is: Setting up -&gt; Ready -&gt; Warming up 
 
 ### How to add safe page
 
-{% page-ref page="../blackflow/features/safe-page.md" %}
+{% page-ref page="blackflow/features/safe-page.md" %}
 
 
 
